@@ -1,2 +1,1 @@
-"# graph-tmdb" 
 # Graph-TMDB
